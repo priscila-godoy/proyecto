@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    font-family: sans-serif;
+    line-height: 40px;
+    background-image: url(degrade.jpg);
+    background-size:contain;
+    background-attachment: fixed;
+
+}
+h1{
+    color:rgb(92, 8, 117);
+  font-weight: normal;
+  text-decoration: underline;
+  font-family: 'Lora', serif;  
+}
+p{
+    color: blue;
+    font-size: 28px;
+    line-height: 30px;
+}
+
+.parrafoRosa{
+    color: pink;
+}
+ol{
+    list-style-type: upper-roman;
+}

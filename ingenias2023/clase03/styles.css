@@ -1,0 +1,22 @@
+h1{
+    color: red;
+}
+
+body{
+    background-color: rgb(180, 233, 215);
+}
+
+header{
+    background-color: cornflowerblue;
+}
+
+h2{
+    color:chartreuse;
+}
+
+#destacado{
+    color: blue;
+}
+.parrafoblanco{
+    background-color: aliceblue;
+}
